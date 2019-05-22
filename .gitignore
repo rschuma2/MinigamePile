@@ -79,3 +79,6 @@ DerivedDataCache/*
 # packaged game and zipped version
 WindowsNoEditor/*
 MinigamePile.zip
+
+# screenshot causing merge issues
+Saved/AutoScreenshot.png
