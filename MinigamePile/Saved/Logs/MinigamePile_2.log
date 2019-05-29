@@ -1,0 +1,1612 @@
+﻿Log file open, 05/28/19 19:11:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MinigamePile
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.456151
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SaveExtension
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Unreal Engine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.29-00.11.57:069][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.29-00.11.57:069][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.29-00.11.57:069][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Engine.ini]
+[2019.05.29-00.11.57:069][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Engine.ini]
+[2019.05.29-00.11.57:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Engine.ini]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Engine.ini]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.29-00.11.57:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Engine.ini]
+[2019.05.29-00.11.57:070][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Engine.ini]
+[2019.05.29-00.11.57:075][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:075][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-00.11.57:075][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.29-00.11.57:075][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.29-00.11.57:076][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.29-00.11.57:076][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-00.11.57:076][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.29-00.11.57:093][  0]LogHAL: Display: Platform has ~ 16 GB [17028878336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.29-00.11.57:093][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.29-00.11.57:093][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-00.11.57:093][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.29-00.11.57:094][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.29-00.11.57:097][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.29-00.11.57:097][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.29-00.11.57:097][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Game Dev/MinigamePile/MinigamePile/Saved/Config/Windows/Engine.ini]
+[2019.05.29-00.11.57:097][  0]LogInit: Computer: CAKE
+[2019.05.29-00.11.57:097][  0]LogInit: User: Owner
+[2019.05.29-00.11.57:097][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.05.29-00.11.57:097][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.29-00.11.57:097][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.29-00.11.57:097][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.29-00.11.57:097][  0]LogMemory: Process Physical Memory: 106.66 MB used, 106.66 MB peak
+[2019.05.29-00.11.57:097][  0]LogMemory: Process Virtual Memory: 96.47 MB used, 96.47 MB peak
+[2019.05.29-00.11.57:097][  0]LogMemory: Physical Memory: 7794.70 MB used,  8445.30 MB free, 16240.00 MB total
+[2019.05.29-00.11.57:097][  0]LogMemory: Virtual Memory: 4714.26 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2019.05.29-00.11.57:263][  0]LogInit: Using OS detected language (en-US).
+[2019.05.29-00.11.57:263][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.29-00.11.57:264][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.29-00.11.57:424][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.29-00.11.57:503][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.29-00.11.57:503][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.29-00.11.58:487][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.05.29-00.11.58:487][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.29-00.11.58:544][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.05.29-00.11.58:544][  0]LogD3D11RHI:       8089/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.29-00.11.58:593][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.05.29-00.11.58:593][  0]LogD3D11RHI:       128/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.29-00.11.58:597][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.29-00.11.58:597][  0]LogD3D11RHI:       0/0/8120 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.29-00.11.58:597][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.29-00.11.58:612][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.29-00.11.58:612][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.29-00.11.58:612][  0]LogWindows: EnumDisplayDevices:
+[2019.05.29-00.11.58:612][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.05.29-00.11.58:612][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.05.29-00.11.58:612][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.29-00.11.58:613][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.29-00.11.58:613][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.29-00.11.58:613][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.29-00.11.58:613][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.29-00.11.58:614][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.29-00.11.58:614][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.05.29-00.11.58:614][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.05.29-00.11.58:614][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.05.29-00.11.58:614][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2019.05.29-00.11.58:656][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.29-00.11.58:659][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.29-00.11.58:659][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.29-00.11.58:660][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.29-00.11.58:668][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.29-00.11.59:181][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.29-00.11.59:199][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.29-00.11.59:219][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.29-00.11.59:239][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.29-00.11.59:261][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.29-00.11.59:280][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.29-00.11.59:299][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.29-00.11.59:319][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.29-00.11.59:332][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.29-00.11.59:416][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.29-00.11.59:425][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.29-00.11.59:502][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.29-00.11.59:502][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.29-00.11.59:531][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.29-00.11.59:531][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.29-00.11.59:550][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.29-00.11.59:569][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.29-00.11.59:587][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.29-00.11.59:609][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.29-00.11.59:664][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.29-00.11.59:664][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.29-00.11.59:664][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.29-00.11.59:711][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.29-00.11.59:981][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (D:/Game Dev/MinigamePile/MinigamePile/Intermediate/Shaders/WorkingDirectory/22720/).
+[2019.05.29-00.11.59:982][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Owner/AppData/Local/Temp/UnrealShaderWorkingDir/076EE17540B902E4C2DB2A9BB3731C9E/'.
+[2019.05.29-00.11.59:983][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.29-00.11.59:983][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.29-00.11.59:983][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.29-00.12.01:685][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.29-00.12.01:728][  0]LogDerivedDataCache: Loaded boot cache 0.04s 72MB C:/Users/Owner/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.29-00.12.01:728][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Owner/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.29-00.12.01:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Game Dev/MinigamePile/MinigamePile/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.29-00.12.01:728][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.29-00.12.01:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Game Dev/MinigamePile/MinigamePile/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-00.12.01:728][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.29-00.12.01:741][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.29-00.12.01:746][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.05.29-00.12.01:760][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.29-00.12.01:760][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.29-00.12.01:760][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.29-00.12.01:779][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.29-00.12.01:780][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.29-00.12.01:785][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.29-00.12.02:104][  0]LogAssetRegistry: FAssetRegistry took 0.0332 seconds to start up
+[2019.05.29-00.12.02:453][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-00.12.02:702][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.29-00.12.02:702][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.29-00.12.02:702][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.29-00.12.02:702][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.29-00.12.02:702][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.29-00.12.02:719][  0]LogNetVersion: MinigamePile 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3474351638)
+[2019.05.29-00.12.03:301][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.084792 seconds
+[2019.05.29-00.12.03:309][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.29-00.12.03:309][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.29-00.12.03:309][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.29-00.12.06:877][  0]LogTemp: Warning: SaveExtension: Initializing Plugin.
+[2019.05.29-00.12.06:904][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.29-00.12.06:925][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.29-00.12.07:169][  0]SourceControl: Source control is disabled
+[2019.05.29-00.12.07:169][  0]SourceControl: Source control is disabled
+[2019.05.29-00.12.07:190][  0]SourceControl: Source control is disabled
+[2019.05.29-00.12.07:199][  0]SourceControl: Source control is disabled
+[2019.05.29-00.12.07:804][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.29-00.12.08:631][  0]LogOcInput: OculusInput pre-init called
+[2019.05.29-00.12.13:568][  0]LogEngine: Initializing Engine...
+[2019.05.29-00.12.13:605][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.05.29-00.12.13:606][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.29-00.12.13:883][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.29-00.12.13:904][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.29-00.12.13:983][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.12.14:315][  0]LogInit: FAudioDevice initialized.
+[2019.05.29-00.12.14:315][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.29-00.12.14:391][  0]LogDerivedDataCache: Saved boot cache 0.08s 72MB C:/Users/Owner/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.29-00.12.14:399][  0]LogInit: Texture streaming: Enabled
+[2019.05.29-00.12.14:452][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.29-00.12.14:492][  0]LogInit: Transaction tracking system initialized
+[2019.05.29-00.12.14:551][  0]BlueprintLog: New page: Editor Load
+[2019.05.29-00.12.14:842][  0]LocalizationService: Localization service is disabled
+[2019.05.29-00.12.15:066][  0]LogLinker: Warning: Can't find file '/Game/PuzzleBP/Tutorial/Part1-Overview'
+[2019.05.29-00.12.15:067][  0]LogLinker: Warning: Can't find file '/Game/PuzzleBP/Tutorial/Part1-Overview'
+[2019.05.29-00.12.15:067][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/PuzzleBP/Tutorial/Part1-Overview.Part1-Overview_C'
+[2019.05.29-00.12.15:067][  0]LogLinker: Warning: Can't find file '/Game/PuzzleBP/Tutorial/Part2b-BlockBLueprintComponents'
+[2019.05.29-00.12.15:067][  0]LogLinker: Warning: Can't find file '/Game/PuzzleBP/Tutorial/Part2b-BlockBLueprintComponents'
+[2019.05.29-00.12.15:067][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/PuzzleBP/Tutorial/Part2b-BlockBLueprintComponents.Part2b-BlockBLueprintComponents_C'
+[2019.05.29-00.12.15:411][  0]LogFileCache: Scanning file cache for directory 'D:/Game Dev/MinigamePile/MinigamePile/Content/' took 0.02s
+[2019.05.29-00.12.15:411][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.29-00.12.15:411][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.29-00.12.18:372][  0]SourceControl: Source control is disabled
+[2019.05.29-00.12.18:372][  0]Cmd: MAP LOAD FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-00.12.18:373][  0]LightingResults: New page: Lighting Build
+[2019.05.29-00.12.18:375][  0]MapCheck: New page: Map Check
+[2019.05.29-00.12.18:375][  0]LightingResults: New page: Lighting Build
+[2019.05.29-00.12.18:405][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.05.29-00.12.18:456][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.05.29-00.12.18:457][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.29-00.12.18:485][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.05.29-00.12.18:485][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-00.12.18:485][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2019.05.29-00.12.18:485][  0]LogFileHelpers: Loading map 'MainMenu' took 0.113
+[2019.05.29-00.12.18:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.12.18:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.12.18:609][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.12.18:616][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.12.18:632][  0]LogCollectionManager: Loaded 0 collections in 0.000843 seconds
+[2019.05.29-00.12.18:649][  0]LogFileCache: Scanning file cache for directory 'D:/Game Dev/MinigamePile/MinigamePile/Saved/Collections/' took 0.01s
+[2019.05.29-00.12.18:649][  0]LogFileCache: Scanning file cache for directory 'D:/Game Dev/MinigamePile/MinigamePile/Content/Developers/Owner/Collections/' took 0.00s
+[2019.05.29-00.12.18:649][  0]LogFileCache: Scanning file cache for directory 'D:/Game Dev/MinigamePile/MinigamePile/Content/Collections/' took 0.00s
+[2019.05.29-00.12.18:649][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.29-00.12.18:657][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2880 classes and 733 folders.
+[2019.05.29-00.12.18:662][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.29-00.12.18:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:687][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:711][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-00.12.18:845][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.29-00.12.18:849][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.05.29-00.12.18:916][  0]LogSlate: Took 0.002657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-00.12.18:920][  0]LogSlate: Took 0.001583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.29-00.12.18:925][  0]LogSlate: Took 0.001498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.29-00.12.19:002][  0]LogRenderer: Reallocating scene render targets to support 1616x900 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-00.12.19:135][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.29-00.12.19:136][  0]LogLoad: (Engine Initialization) Total time: 25.80 seconds
+[2019.05.29-00.12.19:136][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.29-00.12.19:174][  0]LogAssetRegistry: Asset discovery search completed in 17.0935 seconds
+[2019.05.29-00.12.19:176][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.29-00.12.19:177][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.05.29-00.12.19:178][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.29-00.12.19:249][  1]LogRenderer: Reallocating scene render targets to support 1616x912 Format 10 NumSamples 1 (Frame:3).
+[2019.05.29-00.12.22:652][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.12.27:071][468]LogWindows: LaunchURL https://piperift.com/SaveExtension/
+[2019.05.29-00.18.41:495][311]LogSlate: Window 'Plugins' being destroyed
+[2019.05.29-00.18.41:500][311]LogSlate: Window 'Plugins' being destroyed
+[2019.05.29-00.18.41:500][311]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.05.29-00.18.41:500][311]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Unreal Engine/UE_4.22/Enterprise/Plugins/' was aborted.
+[2019.05.29-00.18.48:317][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.18.55:597][150]LogSlate: Took 0.003995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-00.18.55:604][150]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/widgets/PauseScreen.PauseScreen
+[2019.05.29-00.18.55:900][150]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.05.29-00.18.56:599][150]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.05.29-00.18.56:913][150]LogSlate: Took 0.002388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.29-00.19.04:981][628]LogSlate: Took 0.008330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.29-00.19.06:203][700]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/widgets/PauseScreen.PauseScreen:WidgetTree.VerticalBox_269 or VerticalBox /Game/widgets/PauseScreen.PauseScreen_C:WidgetTree.VerticalBox_269
+[2019.05.29-00.19.06:203][700]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/widgets/PauseScreen.PauseScreen:WidgetTree.VerticalBox_269 or VerticalBox /Engine/Transient.World_1:PauseScreen_C_0.WidgetTree_0.VerticalBox_269
+[2019.05.29-00.19.06:203][700]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/widgets/PauseScreen.PauseScreen:WidgetTree.VerticalBox_269 or VerticalBox /Engine/Transient.World_1:PauseScreen_C_1.WidgetTree_0.VerticalBox_269
+[2019.05.29-00.19.06:203][700]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/widgets/PauseScreen.PauseScreen:WidgetTree.VerticalBox_269 or VerticalBox /Engine/Transient.World_1:PauseScreen_C_2.WidgetTree_0.VerticalBox_269
+[2019.05.29-00.19.06:203][700]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/widgets/PauseScreen.PauseScreen:WidgetTree.VerticalBox_269.VerticalBoxSlot_6) from referencer (Spacer /Engine/UMG/Editor/Transient.Spacer_142).  Import failed...
+[2019.05.29-00.19.06:203][700]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_269.VerticalBoxSlot_6"''
+[2019.05.29-00.19.29:403][ 75]BlueprintLog: New page: Compile PauseScreen
+[2019.05.29-00.19.29:469][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.05.29-00.19.29:503][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widgets/PauseScreen" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset" SILENT=true
+[2019.05.29-00.19.29:530][ 75]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/PauseScreenA83C2A784FFD36B04798AF83D6035BC5.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset'
+[2019.05.29-00.19.30:248][113]LogSlate: Took 0.002122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.29-00.21.07:331][888]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/widgets/VehicleHUD.VehicleHUD
+[2019.05.29-00.21.09:013][966]LogSlate: Window 'VehicleHUD' being destroyed
+[2019.05.29-00.21.09:017][966]LogSlate: Window 'VehicleHUD' being destroyed
+[2019.05.29-00.21.12:523][172]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/widgets/MinigamePileHUD.MinigamePileHUD
+[2019.05.29-00.21.27:313][ 37]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MinigamePileGameState.MinigamePileGameState
+[2019.05.29-00.21.38:120][667]BlueprintLog: New page: Compile MinigamePileGameState
+[2019.05.29-00.21.38:297][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.05.29-00.21.38:317][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MinigamePileGameState" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset" SILENT=true
+[2019.05.29-00.21.38:335][667]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MinigamePileGameState5B88D9224B3D870DF117119DEA7401F9.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset'
+[2019.05.29-00.21.43:111][952]BlueprintLog: New page: Compile PauseScreen
+[2019.05.29-00.21.43:156][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.05.29-00.21.43:172][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widgets/PauseScreen" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset" SILENT=true
+[2019.05.29-00.21.43:196][952]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/PauseScreenF717121647E53D6F3F19C49295C15006.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset'
+[2019.05.29-00.21.51:289][435]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.21.51:306][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.21.51:306][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-00.21.51:307][435]PIE: New page: PIE session: MainMenu (May 28, 2019, 2:21:51 PM)
+[2019.05.29-00.21.51:320][435]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.05.29-00.21.51:320][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000815s)
+[2019.05.29-00.21.51:321][435]LogAIModule: Creating AISystem for world MainMenu
+[2019.05.29-00.21.51:321][435]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2019.05.29-00.21.51:321][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001507s)
+[2019.05.29-00.21.51:359][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.05.29-00.21.51:385][435]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.21.51:533][435]LogInit: FAudioDevice initialized.
+[2019.05.29-00.21.51:578][435]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.21.51:579][435]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.05.28-19.21.51
+[2019.05.29-00.21.51:579][435]LogWorld: Bringing up level for play took: 0.000375
+[2019.05.29-00.21.51:597][435]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.05.29-00.21.51:601][435]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.05.29-00.21.51:601][435]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.29-00.21.51:601][435]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.21.51:601][435]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.21.51:601][435]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.21.51:603][435]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.21.51:603][435]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.21.51:603][435]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.221
+[2019.05.29-00.21.51:603][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.21.55:731][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.21.55:799][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.21.55:799][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.21.55:828][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.21.55:828][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.21.55:880][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.21.55:898][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.05.29-00.21.55:909][670]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.29-00.31.03:709][419]BlueprintLog: New page: Compile MinigamePileGameState
+[2019.05.29-00.31.03:908][419]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.05.29-00.31.03:926][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MinigamePileGameState" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset" SILENT=true
+[2019.05.29-00.31.03:937][419]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MinigamePileGameStateBACDDA1B4B760D9893A9E0AF8EBC8C0D.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset'
+[2019.05.29-00.31.06:273][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.29-00.31.06:311][557]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.05.29-00.31.06:476][557]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MainMenu256CF11D416D060B4ABD528C77FEBE80.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenu.umap'
+[2019.05.29-00.31.06:497][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2019.05.29-00.31.06:501][557]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MainMenu_BuiltDataAF4A2A644C143D959A748E8CCD69FCD0.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenu_BuiltData.uasset'
+[2019.05.29-00.31.07:141][594]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.31.07:160][594]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.07:160][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-00.31.07:160][594]PIE: New page: PIE session: MainMenu (May 28, 2019, 2:31:07 PM)
+[2019.05.29-00.31.07:160][594]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.05.29-00.31.07:161][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000829s)
+[2019.05.29-00.31.07:162][594]LogAIModule: Creating AISystem for world MainMenu
+[2019.05.29-00.31.07:162][594]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2019.05.29-00.31.07:162][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001449s)
+[2019.05.29-00.31.07:205][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.05.29-00.31.07:232][594]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.31.07:372][594]LogInit: FAudioDevice initialized.
+[2019.05.29-00.31.07:401][594]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.31.07:402][594]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.05.28-19.31.07
+[2019.05.29-00.31.07:402][594]LogWorld: Bringing up level for play took: 0.000380
+[2019.05.29-00.31.07:414][594]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.07:414][594]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.07:414][594]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.07:416][594]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.31.07:417][594]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.07:417][594]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.407
+[2019.05.29-00.31.07:417][594]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.08:716][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.31.08:767][675]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.08:767][675]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.08:767][675]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.31.08:767][675]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.31.08:813][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.05.29-00.31.09:469][675]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.31.09:469][675]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.31.09:475][675]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.31.09
+[2019.05.29-00.31.09:475][675]LogWorld: Bringing up level for play took: 0.004858
+[2019.05.29-00.31.09:476][675]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.09:476][675]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.09:476][675]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.09:477][675]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.09:477][675]LogLoad: Took 0.710012 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.31.19:071][249]PIE: Warning: The widget 'PauseScreen_C' was already added to the screen.
+[2019.05.29-00.31.19:071][249]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.31.20:061][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.31.21:883][417]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.21:883][417]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.21:884][417]LogNet: Browse: /Game/Maps/MainMenu
+[2019.05.29-00.31.21:884][417]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2019.05.29-00.31.21:934][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.05.29-00.31.21:934][417]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.05.29-00.31.21:939][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001779s)
+[2019.05.29-00.31.21:939][417]LogAIModule: Creating AISystem for world MainMenu
+[2019.05.29-00.31.21:939][417]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2019.05.29-00.31.21:939][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.005162s)
+[2019.05.29-00.31.21:939][417]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.31.21:940][417]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.05.28-19.31.21
+[2019.05.29-00.31.21:940][417]LogWorld: Bringing up level for play took: 0.000312
+[2019.05.29-00.31.21:941][417]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.29-00.31.21:941][417]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.21:941][417]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.21:941][417]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.21:942][417]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.31.21:944][417]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.21:944][417]LogLoad: Took 0.060466 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2019.05.29-00.31.21:957][418]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.21:958][418]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.21:958][418]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.31.21:958][418]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.31.22:004][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.05.29-00.31.22:020][418]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.31.22:020][418]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.31.22:031][418]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.31.22
+[2019.05.29-00.31.22:032][418]LogWorld: Bringing up level for play took: 0.010321
+[2019.05.29-00.31.22:032][418]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.22:032][418]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.22:032][418]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.22:032][418]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.22:038][418]LogLoad: Took 0.080267 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.31.32:232][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.32:233][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.31.32:263][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.31.32:264][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.32:311][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.31.32:316][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.05.29-00.31.32:326][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-00.31.32:344][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.29-00.31.34:527][159]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.31.34:531][159]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.31.38:689][408]BlueprintLog: New page: Compile MinigamePileGameState
+[2019.05.29-00.31.38:900][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.05.29-00.31.38:918][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MinigamePileGameState" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset" SILENT=true
+[2019.05.29-00.31.38:929][408]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MinigamePileGameStateA009F2994B87D1916977B69A5422BDBC.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset'
+[2019.05.29-00.31.39:976][470]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.31.39:997][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.39:997][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-00.31.39:997][470]PIE: New page: PIE session: MainMenu (May 28, 2019, 2:31:39 PM)
+[2019.05.29-00.31.39:997][470]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.05.29-00.31.39:999][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001272s)
+[2019.05.29-00.31.39:999][470]LogAIModule: Creating AISystem for world MainMenu
+[2019.05.29-00.31.39:999][470]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2019.05.29-00.31.39:999][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002112s)
+[2019.05.29-00.31.40:047][470]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.05.29-00.31.40:072][470]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.31.40:219][470]LogInit: FAudioDevice initialized.
+[2019.05.29-00.31.40:252][470]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.31.40:253][470]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.05.28-19.31.40
+[2019.05.29-00.31.40:253][470]LogWorld: Bringing up level for play took: 0.000388
+[2019.05.29-00.31.40:265][470]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.40:265][470]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.40:265][470]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.40:267][470]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.31.40:267][470]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.40:268][470]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.444
+[2019.05.29-00.31.40:268][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.40:268][470]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.40:268][470]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.40:268][470]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.31.40:268][470]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.31.40:314][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.05.29-00.31.40:336][470]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.31.40:337][470]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.31.40:349][470]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.31.40
+[2019.05.29-00.31.40:350][470]LogWorld: Bringing up level for play took: 0.012215
+[2019.05.29-00.31.40:350][470]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.40:350][470]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.40:350][470]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.40:350][470]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.40:356][470]LogLoad: Took 0.088046 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.31.42:380][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-00.31.42:733][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.42:733][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.31.42:763][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.31.42:763][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.42:812][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.31.42:820][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.05.29-00.31.42:851][611]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.29-00.31.44:700][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.31.44:751][724]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.31.44:769][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.44:769][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-00.31.44:769][724]PIE: New page: PIE session: MainMenu (May 28, 2019, 2:31:44 PM)
+[2019.05.29-00.31.44:769][724]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.05.29-00.31.44:770][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000787s)
+[2019.05.29-00.31.44:770][724]LogAIModule: Creating AISystem for world MainMenu
+[2019.05.29-00.31.44:770][724]LogPlayLevel: PIE: World Init took: (0.000425s)
+[2019.05.29-00.31.44:771][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001314s)
+[2019.05.29-00.31.44:812][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.05.29-00.31.44:839][724]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.31.44:984][724]LogInit: FAudioDevice initialized.
+[2019.05.29-00.31.45:013][724]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.31.45:014][724]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.05.28-19.31.45
+[2019.05.29-00.31.45:014][724]LogWorld: Bringing up level for play took: 0.000348
+[2019.05.29-00.31.45:027][724]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.45:027][724]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.45:027][724]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.45:029][724]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.31.45:030][724]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.45:030][724]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.206
+[2019.05.29-00.31.45:030][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.45:030][724]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.45:030][724]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.45:030][724]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.31.45:030][724]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.31.45:072][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.05.29-00.31.45:088][724]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.31.45:088][724]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.31.45:096][724]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.31.45
+[2019.05.29-00.31.45:096][724]LogWorld: Bringing up level for play took: 0.007514
+[2019.05.29-00.31.45:097][724]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.45:097][724]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.45:097][724]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.45:097][724]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.45:102][724]LogLoad: Took 0.071901 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.31.47:541][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.47:541][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.31.47:572][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.31.47:572][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.47:617][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.31.47:622][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.05.29-00.31.47:647][871]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.29-00.31.48:602][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.31.55:308][329]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.31.55:328][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.55:328][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-00.31.55:328][329]PIE: New page: PIE session: MainMenu (May 28, 2019, 2:31:55 PM)
+[2019.05.29-00.31.55:328][329]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.05.29-00.31.55:329][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000838s)
+[2019.05.29-00.31.55:329][329]LogAIModule: Creating AISystem for world MainMenu
+[2019.05.29-00.31.55:329][329]LogPlayLevel: PIE: World Init took: (0.000433s)
+[2019.05.29-00.31.55:329][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001373s)
+[2019.05.29-00.31.55:370][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.05.29-00.31.55:396][329]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.31.55:533][329]LogInit: FAudioDevice initialized.
+[2019.05.29-00.31.55:563][329]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.31.55:564][329]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.05.28-19.31.55
+[2019.05.29-00.31.55:564][329]LogWorld: Bringing up level for play took: 0.000430
+[2019.05.29-00.31.55:578][329]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.55:578][329]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.55:578][329]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.55:579][329]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.31.55:580][329]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.55:580][329]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.244
+[2019.05.29-00.31.55:580][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.55:580][329]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.55:580][329]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.31.55:580][329]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.31.55:580][329]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.31.55:625][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.05.29-00.31.55:640][329]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.31.55:640][329]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.31.55:649][329]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.31.55
+[2019.05.29-00.31.55:649][329]LogWorld: Bringing up level for play took: 0.008141
+[2019.05.29-00.31.55:650][329]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.55:650][329]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.31.55:650][329]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.55:650][329]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.31.55:654][329]LogLoad: Took 0.073077 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.31.56:287][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.56:287][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.31.56:319][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.31.56:320][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.31.56:368][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.31.56:372][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.05.29-00.31.56:401][368]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.29-00.32.01:637][681]BlueprintLog: New page: Compile MinigamePileGameState
+[2019.05.29-00.32.01:846][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.05.29-00.32.01:865][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MinigamePileGameState" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset" SILENT=true
+[2019.05.29-00.32.01:874][681]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MinigamePileGameStateA26CE6AC40A857D8F9BA93BF79656015.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset'
+[2019.05.29-00.32.02:546][720]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.32.02:566][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.32.02:566][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-00.32.02:566][720]PIE: New page: PIE session: MainMenu (May 28, 2019, 2:32:02 PM)
+[2019.05.29-00.32.02:566][720]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.05.29-00.32.02:567][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000943s)
+[2019.05.29-00.32.02:567][720]LogAIModule: Creating AISystem for world MainMenu
+[2019.05.29-00.32.02:567][720]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2019.05.29-00.32.02:568][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001614s)
+[2019.05.29-00.32.02:611][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.05.29-00.32.02:637][720]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.32.02:774][720]LogInit: FAudioDevice initialized.
+[2019.05.29-00.32.02:780][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.32.02:812][720]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.32.02:813][720]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.05.28-19.32.02
+[2019.05.29-00.32.02:813][720]LogWorld: Bringing up level for play took: 0.000557
+[2019.05.29-00.32.02:825][720]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.29-00.32.02:825][720]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.02:825][720]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.02:825][720]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.02:827][720]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.32.02:827][720]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.02:828][720]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.004
+[2019.05.29-00.32.02:828][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.32.04:325][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.32.04:392][814]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.04:392][814]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.04:392][814]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.32.04:393][814]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.32.04:436][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.05.29-00.32.04:456][814]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.32.04:457][814]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.32.04:477][814]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.32.04
+[2019.05.29-00.32.04:478][814]LogWorld: Bringing up level for play took: 0.019908
+[2019.05.29-00.32.04:478][814]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.04:478][814]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.04:478][814]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.04:478][814]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.04:478][814]LogLoad: Took 0.085761 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.32.15:750][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.32.15:801][492]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.15:801][492]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.15:801][492]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.32.15:801][492]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.32.15:843][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.05.29-00.32.15:859][492]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.32.15:859][492]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.32.15:870][492]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.32.15
+[2019.05.29-00.32.15:870][492]LogWorld: Bringing up level for play took: 0.010666
+[2019.05.29-00.32.15:871][492]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.15:871][492]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.15:871][492]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.15:871][492]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.15:871][492]LogLoad: Took 0.069657 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.32.20:360][761]PIE: Warning: The widget 'PauseScreen_C' was already added to the screen.
+[2019.05.29-00.32.20:360][761]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.32.21:678][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.32.27:978][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.32.28:062][220]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.28:062][220]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.28:063][220]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.32.28:063][220]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.32.28:108][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.05.29-00.32.28:123][220]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.32.28:124][220]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.32.28:134][220]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.32.28
+[2019.05.29-00.32.28:134][220]LogWorld: Bringing up level for play took: 0.009684
+[2019.05.29-00.32.28:135][220]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.28:135][220]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.28:135][220]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.28:135][220]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.28:135][220]LogLoad: Took 0.072477 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.32.31:636][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.32.31:704][434]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.31:704][434]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.31:704][434]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.32.31:704][434]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.32.31:749][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.05.29-00.32.31:764][434]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.32.31:765][434]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.32.31:771][434]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.32.31
+[2019.05.29-00.32.31:771][434]LogWorld: Bringing up level for play took: 0.005455
+[2019.05.29-00.32.31:771][434]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.31:771][434]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.31:771][434]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.31:772][434]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.31:772][434]LogLoad: Took 0.067550 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.32.34:169][578]PIE: Warning: The widget 'PauseScreen_C' was already added to the screen.
+[2019.05.29-00.32.34:169][578]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.32.35:423][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.32.37:763][793]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.37:763][793]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.37:763][793]LogNet: Browse: /Game/Maps/MainMenu
+[2019.05.29-00.32.37:763][793]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2019.05.29-00.32.37:807][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.05.29-00.32.37:807][793]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.05.29-00.32.37:808][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000846s)
+[2019.05.29-00.32.37:808][793]LogAIModule: Creating AISystem for world MainMenu
+[2019.05.29-00.32.37:808][793]LogPlayLevel: PIE: World Init took: (0.000430s)
+[2019.05.29-00.32.37:808][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001402s)
+[2019.05.29-00.32.37:809][793]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.32.37:810][793]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.05.28-19.32.37
+[2019.05.29-00.32.37:810][793]LogWorld: Bringing up level for play took: 0.000400
+[2019.05.29-00.32.37:810][793]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.29-00.32.37:810][793]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.37:810][793]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.37:810][793]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.37:812][793]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.32.37:812][793]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.37:812][793]LogLoad: Took 0.048463 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2019.05.29-00.32.39:089][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.32.39:140][873]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.39:140][873]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.32.39:140][873]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.32.39:140][873]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.32.39:180][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.05.29-00.32.39:194][873]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.32.39:194][873]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.32.39:203][873]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.32.39
+[2019.05.29-00.32.39:204][873]LogWorld: Bringing up level for play took: 0.009017
+[2019.05.29-00.32.39:204][873]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.39:204][873]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.32.39:204][873]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.39:205][873]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.32.39:205][873]LogLoad: Took 0.065680 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.32.40:549][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.32.40:550][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.32.40:557][954]LogSlate: Window 'MinigamePile Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.29-00.32.40:594][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.32.40:595][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.05.29-00.32.40:646][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.05.29-00.32.40:677][955]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.05.29-00.32.43:581][129]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.32.43:584][129]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.33.08:425][607]BlueprintLog: New page: Compile MinigamePileGameState
+[2019.05.29-00.33.08:634][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.05.29-00.33.08:653][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MinigamePileGameState" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset" SILENT=true
+[2019.05.29-00.33.08:662][607]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MinigamePileGameStateE5BEDD844A2934B739CDF5AAF2806ED6.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset'
+[2019.05.29-00.34.54:844][283]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.05.29-00.34.55:066][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.05.29-00.34.55:069][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.29-00.34.55:082][283]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MainMenuMapF06901A144770464E7461E93D140F8C0.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenuMap.umap'
+[2019.05.29-00.34.55:084][283]LogFileHelpers: Saving map 'MainMenuMap' took 0.015
+[2019.05.29-00.34.55:085][283]LogMetaData: Removing '/Game/Maps/MainMenuMap.MainMenuMap_C' ref from Metadata '/Game/Maps/MainMenu.PackageMetaData'
+[2019.05.29-00.34.55:085][283]LogMetaData: Removing '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/MainMenu.PackageMetaData'
+[2019.05.29-00.34.55:085][283]LogMetaData: Removing '/Game/Maps/MainMenuMap.SKEL_MainMenuMap_C' ref from Metadata '/Game/Maps/MainMenu.PackageMetaData'
+[2019.05.29-00.34.55:105][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap_BuiltData" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenuMap_BuiltData.uasset" SILENT=true
+[2019.05.29-00.34.55:108][283]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MainMenuMap_BuiltDataFD34EA8B48BD61AE97CC829818378DC5.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenuMap_BuiltData.uasset'
+[2019.05.29-00.34.55:113][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.29-00.34.55:164][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.05.29-00.34.55:341][283]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MainMenuMap75042D7243A53AA6BC5A68AA6ACDAED6.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenuMap.umap'
+[2019.05.29-00.34.55:358][283]LogFileHelpers: Saving map 'MainMenuMap' took 0.245
+[2019.05.29-00.34.55:647][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.05.29-00.34.55:685][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.05.29-00.34.55:727][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.05.29-00.34.55:771][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.05.29-00.34.59:580][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenuMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.29-00.34.59:664][492]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2019.05.29-00.34.59:846][492]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MainMenuMap99AB211946D94B8EF88792B781759EC6.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenuMap.umap'
+[2019.05.29-00.34.59:868][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenuMap_BuiltData" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenuMap_BuiltData.uasset" SILENT=true
+[2019.05.29-00.34.59:873][492]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MainMenuMap_BuiltDataD0E859964948315C2BA4719D248CB9E5.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Maps/MainMenuMap_BuiltData.uasset'
+[2019.05.29-00.35.00:747][543]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.35.00:770][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.35.00:770][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-00.35.00:770][543]PIE: New page: PIE session: MainMenuMap (May 28, 2019, 2:35:00 PM)
+[2019.05.29-00.35.00:770][543]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-00.35.00:771][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000829s)
+[2019.05.29-00.35.00:771][543]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-00.35.00:772][543]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2019.05.29-00.35.00:772][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001530s)
+[2019.05.29-00.35.00:827][543]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.05.29-00.35.00:853][543]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.35.00:991][543]LogInit: FAudioDevice initialized.
+[2019.05.29-00.35.01:023][543]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.35.01:024][543]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-19.35.01
+[2019.05.29-00.35.01:024][543]LogWorld: Bringing up level for play took: 0.000375
+[2019.05.29-00.35.01:036][543]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.35.01:036][543]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.35.01:036][543]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.35.01:038][543]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.35.01:038][543]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.35.01:039][543]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 1.215
+[2019.05.29-00.35.01:039][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.35.03:157][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.35.03:208][673]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.35.03:208][673]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.35.03:208][673]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.35.03:208][673]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.35.03:248][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.05.29-00.35.03:269][673]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.35.03:269][673]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.35.03:279][673]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.35.03
+[2019.05.29-00.35.03:280][673]LogWorld: Bringing up level for play took: 0.009715
+[2019.05.29-00.35.03:280][673]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.35.03:280][673]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.35.03:280][673]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.35.03:281][673]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.35.03:281][673]LogLoad: Took 0.073676 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.35.04:716][759]PIE: Warning: The widget 'PauseScreen_C' was already added to the screen.
+[2019.05.29-00.35.04:716][759]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.35.05:584][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.35.05:723][815]LogPackageName: SearchForPackageOnDisk took   0.072s, but failed to resolve MainMenu.umap.
+[2019.05.29-00.35.05:724][815]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.35.05:724][815]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.35.05:798][815]LogPackageName: SearchForPackageOnDisk took   0.073s, but failed to resolve MainMenu.umap.
+[2019.05.29-00.35.05:798][815]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.35.05:798][815]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.35.05:798][815]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.05.29-00.35.05:798][815]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.05.29-00.35.05:798][815]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.35.05:798][815]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.05.29-00.35.05:798][815]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/ThirdPersonExampleMap'. Shutting down PIE.
+[2019.05.29-00.35.05:798][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.35.05:799][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.35.05:828][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.35.05:828][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.35.05:875][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.35.05:880][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.05.29-00.35.05:925][816]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.29-00.35.07:318][899]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.35.07:322][899]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.40.00:672][447]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.40.00:694][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.40.00:694][447]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.29-00.40.00:696][447]LogPlayLevel: [PlayLevel] Compiling PauseScreen before play...
+[2019.05.29-00.40.00:881][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widgets/PauseScreen" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset" SILENT=true
+[2019.05.29-00.40.00:905][447]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/PauseScreenC38E93B94F9EDFF6B19292AF2B43A354.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset'
+[2019.05.29-00.40.00:956][447]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.05.29-00.40.00:957][447]LogPlayLevel: PlayLevel: Blueprint regeneration took 262 ms (1 blueprints)
+[2019.05.29-00.40.00:957][447]PIE: New page: PIE session: MainMenuMap (May 28, 2019, 2:40:00 PM)
+[2019.05.29-00.40.00:957][447]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-00.40.00:958][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000803s)
+[2019.05.29-00.40.00:958][447]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-00.40.00:958][447]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.05.29-00.40.00:958][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001446s)
+[2019.05.29-00.40.00:999][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.05.29-00.40.01:025][447]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.40.01:163][447]LogInit: FAudioDevice initialized.
+[2019.05.29-00.40.01:169][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.40.01:202][447]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.40.01:203][447]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-19.40.01
+[2019.05.29-00.40.01:204][447]LogWorld: Bringing up level for play took: 0.000652
+[2019.05.29-00.40.01:217][447]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.29-00.40.01:217][447]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.40.01:217][447]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.40.01:217][447]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.40.01:218][447]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.40.01:218][447]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.40.01:219][447]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 1.396
+[2019.05.29-00.40.01:219][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.40.02:038][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.40.02:038][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.40.02:044][495]LogSlate: Window 'MinigamePile Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.29-00.40.02:076][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.40.02:076][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.40.02:127][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.05.29-00.40.02:141][496]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.29-00.40.04:111][614]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.40.04:130][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.40.04:130][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-00.40.04:130][614]PIE: New page: PIE session: MainMenuMap (May 28, 2019, 2:40:04 PM)
+[2019.05.29-00.40.04:130][614]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-00.40.04:131][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000739s)
+[2019.05.29-00.40.04:131][614]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-00.40.04:131][614]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2019.05.29-00.40.04:131][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001280s)
+[2019.05.29-00.40.04:168][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.05.29-00.40.04:194][614]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.40.04:331][614]LogInit: FAudioDevice initialized.
+[2019.05.29-00.40.04:337][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.40.04:368][614]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.40.04:369][614]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-19.40.04
+[2019.05.29-00.40.04:369][614]LogWorld: Bringing up level for play took: 0.000377
+[2019.05.29-00.40.04:381][614]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.29-00.40.04:381][614]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.40.04:382][614]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.40.04:382][614]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.40.04:383][614]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.40.04:383][614]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.40.04:384][614]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 0.56
+[2019.05.29-00.40.04:384][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.40.05:563][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.40.05:580][686]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.40.05:580][686]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.40.05:580][686]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.40.05:580][686]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.40.05:619][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.05.29-00.40.05:634][686]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.40.05:635][686]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.40.05:646][686]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.40.05
+[2019.05.29-00.40.05:646][686]LogWorld: Bringing up level for play took: 0.010748
+[2019.05.29-00.40.05:647][686]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.40.05:647][686]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.40.05:647][686]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.40.05:647][686]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.40.05:647][686]LogLoad: Took 0.067230 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.40.08:299][845]PIE: Warning: The widget 'PauseScreen_C' was already added to the screen.
+[2019.05.29-00.40.08:299][845]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.40.09:702][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.40.09:753][932]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.40.09:753][932]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.40.09:753][932]LogNet: Browse: /Game/Maps/MainMenuMap
+[2019.05.29-00.40.09:753][932]LogLoad: LoadMap: /Game/Maps/MainMenuMap
+[2019.05.29-00.40.09:797][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.05.29-00.40.09:798][932]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-00.40.09:798][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000784s)
+[2019.05.29-00.40.09:799][932]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-00.40.09:799][932]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2019.05.29-00.40.09:799][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001367s)
+[2019.05.29-00.40.09:799][932]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.40.09:800][932]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-19.40.09
+[2019.05.29-00.40.09:800][932]LogWorld: Bringing up level for play took: 0.000301
+[2019.05.29-00.40.09:801][932]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.29-00.40.09:801][932]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.40.09:801][932]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.40.09:801][932]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.40.09:802][932]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.40.09:802][932]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.40.09:802][932]LogLoad: Took 0.048665 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenuMap)
+[2019.05.29-00.40.10:762][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.40.10:830][994]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.40.10:830][994]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.40.10:830][994]LogNet: Browse: /Game/Maps/FirstPersonExampleMap
+[2019.05.29-00.40.10:830][994]LogLoad: LoadMap: /Game/Maps/FirstPersonExampleMap
+[2019.05.29-00.40.10:871][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.05.29-00.40.10:897][994]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.05.29-00.40.10:898][994]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.40.10:912][994]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.40.10
+[2019.05.29-00.40.10:913][994]LogWorld: Bringing up level for play took: 0.014306
+[2019.05.29-00.40.10:913][994]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.40.10:913][994]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.40.10:913][994]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.40.10:914][994]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.40.10:914][994]LogLoad: Took 0.084375 seconds to LoadMap(/Game/Maps/FirstPersonExampleMap)
+[2019.05.29-00.40.12:848][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.40.12:848][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.40.12:855][110]LogSlate: Window 'MinigamePile Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.05.29-00.40.12:886][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.40.12:887][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.40.12:934][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.05.29-00.40.12:961][111]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.29-00.40.14:346][194]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.40.14:350][194]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.42.01:355][448]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/widgets/MainMenu.MainMenu
+[2019.05.29-00.42.10:957][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.05.29-00.42.12:040][997]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.29-00.42.12:121][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.05.29-00.42.12:163][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.05.29-00.42.12:202][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.05.29-00.42.14:831][154]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/widgets/LevelSelectWidget.LevelSelectWidget
+[2019.05.29-00.45.41:810][465]BlueprintLog: New page: Compile MinigamePileGameState
+[2019.05.29-00.45.42:261][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.05.29-00.45.42:281][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MinigamePileGameState" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset" SILENT=true
+[2019.05.29-00.45.42:295][465]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MinigamePileGameState35D08AB04D658E145A00149CAC76B655.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset'
+[2019.05.29-00.46.04:395][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.05.29-00.46.04:404][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MinigamePileGameState" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset" SILENT=true
+[2019.05.29-00.46.04:417][783]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/MinigamePileGameStateC7B0A1354F27989C2F7F588C5F27D658.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/Blueprints/MinigamePileGameState.uasset'
+[2019.05.29-00.46.04:422][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widgets/PauseScreen" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset" SILENT=true
+[2019.05.29-00.46.04:444][783]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/PauseScreenB94D5502432A611BCC6011BA0F6668C4.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset'
+[2019.05.29-00.46.04:453][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widgets/LevelSelectWidget" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/LevelSelectWidget.uasset" SILENT=true
+[2019.05.29-00.46.04:501][783]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/LevelSelectWidget65E0ACF74512327F5DD7D29505241D66.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/LevelSelectWidget.uasset'
+[2019.05.29-00.47.15:788][ 14]BlueprintLog: New page: Compile LevelSelectWidget
+[2019.05.29-00.47.15:846][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.05.29-00.47.15:866][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widgets/LevelSelectWidget" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/LevelSelectWidget.uasset" SILENT=true
+[2019.05.29-00.47.15:894][ 14]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/LevelSelectWidget8C7F00764CDE3F0F4965CA907F02E315.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/LevelSelectWidget.uasset'
+[2019.05.29-00.48.20:815][888]BlueprintLog: New page: Compile LevelSelectWidget
+[2019.05.29-00.48.20:876][888]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2019.05.29-00.48.20:898][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widgets/LevelSelectWidget" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/LevelSelectWidget.uasset" SILENT=true
+[2019.05.29-00.48.20:932][888]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/LevelSelectWidget80DD74FA44F577D62C46C9A0709CFEB4.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/LevelSelectWidget.uasset'
+[2019.05.29-00.48.24:121][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.48.24:151][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.48.24:151][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-00.48.24:151][ 77]PIE: New page: PIE session: MainMenuMap (May 28, 2019, 2:48:24 PM)
+[2019.05.29-00.48.24:151][ 77]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-00.48.24:152][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000809s)
+[2019.05.29-00.48.24:152][ 77]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-00.48.24:152][ 77]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2019.05.29-00.48.24:153][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001468s)
+[2019.05.29-00.48.24:197][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.05.29-00.48.24:224][ 77]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.48.24:362][ 77]LogInit: FAudioDevice initialized.
+[2019.05.29-00.48.24:390][ 77]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.48.24:391][ 77]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-19.48.24
+[2019.05.29-00.48.24:392][ 77]LogWorld: Bringing up level for play took: 0.000359
+[2019.05.29-00.48.24:404][ 77]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.48.24:404][ 77]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.48.24:404][ 77]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.48.24:406][ 77]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.48.24:406][ 77]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.48.24:406][ 77]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 0.582
+[2019.05.29-00.48.24:406][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.48.25:621][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.48.25:708][155]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.48.25:708][155]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.48.25:708][155]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.48.25:708][155]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.48.25:756][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.05.29-00.48.25:781][155]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.48.25:781][155]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.48.25:835][155]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.48.25
+[2019.05.29-00.48.25:835][155]LogWorld: Bringing up level for play took: 0.053138
+[2019.05.29-00.48.25:836][155]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.48.25:836][155]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.48.25:836][155]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.48.25:836][155]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.48.25:836][155]LogLoad: Took 0.127929 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.48.29:427][370]PIE: Warning: The widget 'PauseScreen_C' was already added to the screen.
+[2019.05.29-00.48.29:427][370]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.48.32:000][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.48.32:051][527]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.48.32:051][527]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.48.32:052][527]LogNet: Browse: /Game/Maps/MainMenuMap
+[2019.05.29-00.48.32:052][527]LogLoad: LoadMap: /Game/Maps/MainMenuMap
+[2019.05.29-00.48.32:096][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.05.29-00.48.32:096][527]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-00.48.32:097][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000798s)
+[2019.05.29-00.48.32:098][527]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-00.48.32:098][527]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2019.05.29-00.48.32:098][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001509s)
+[2019.05.29-00.48.32:098][527]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.48.32:099][527]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-19.48.32
+[2019.05.29-00.48.32:099][527]LogWorld: Bringing up level for play took: 0.000355
+[2019.05.29-00.48.32:099][527]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.29-00.48.32:100][527]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.48.32:100][527]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.48.32:100][527]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.48.32:101][527]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.48.32:101][527]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.48.32:101][527]LogLoad: Took 0.049422 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenuMap)
+[2019.05.29-00.48.33:450][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.48.33:835][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.48.33:836][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.48.33:865][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.48.33:865][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.48.33:923][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.48.33:928][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.05.29-00.48.33:962][632]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.05.29-00.48.36:956][811]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.48.36:960][811]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.49.16:159][145]BlueprintLog: New page: Compile PauseScreen
+[2019.05.29-00.49.16:208][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.05.29-00.49.16:231][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widgets/PauseScreen" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset" SILENT=true
+[2019.05.29-00.49.16:254][145]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/PauseScreenAFBA50BE48D819D26EEF8588AC932F53.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset'
+[2019.05.29-00.49.35:009][263]BlueprintLog: New page: Compile PauseScreen
+[2019.05.29-00.49.35:058][263]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.05.29-00.49.35:077][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widgets/PauseScreen" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset" SILENT=true
+[2019.05.29-00.49.35:101][263]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/PauseScreen22924CCC4AE9EBD01FAB00A95DAADE63.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/PauseScreen.uasset'
+[2019.05.29-00.49.36:942][371]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-00.49.36:965][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.49.36:965][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-00.49.36:965][371]PIE: New page: PIE session: MainMenuMap (May 28, 2019, 2:49:36 PM)
+[2019.05.29-00.49.36:965][371]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-00.49.36:966][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000780s)
+[2019.05.29-00.49.36:966][371]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-00.49.36:967][371]LogPlayLevel: PIE: World Init took: (0.000464s)
+[2019.05.29-00.49.36:967][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001351s)
+[2019.05.29-00.49.37:013][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.05.29-00.49.37:038][371]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-00.49.37:174][371]LogInit: FAudioDevice initialized.
+[2019.05.29-00.49.37:204][371]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.49.37:205][371]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-19.49.37
+[2019.05.29-00.49.37:205][371]LogWorld: Bringing up level for play took: 0.000325
+[2019.05.29-00.49.37:217][371]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.49.37:217][371]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.49.37:217][371]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.49.37:219][371]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.49.37:219][371]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.49.37:219][371]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap -0.604
+[2019.05.29-00.49.37:219][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.49.39:238][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.49.39:291][495]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.49.39:291][495]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.49.39:291][495]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.49.39:291][495]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.49.39:336][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.05.29-00.49.39:350][495]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.49.39:351][495]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.49.39:361][495]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.49.39
+[2019.05.29-00.49.39:361][495]LogWorld: Bringing up level for play took: 0.009890
+[2019.05.29-00.49.39:362][495]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.49.39:362][495]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.49.39:362][495]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.49.39:362][495]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.49.39:362][495]LogLoad: Took 0.072254 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.49.43:460][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.49.43:535][744]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.49.43:535][744]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.49.43:535][744]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.49.43:535][744]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.49.43:577][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.05.29-00.49.43:592][744]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.49.43:592][744]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.49.43:599][744]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.49.43
+[2019.05.29-00.49.43:599][744]LogWorld: Bringing up level for play took: 0.005930
+[2019.05.29-00.49.43:599][744]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.49.43:599][744]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.49.43:599][744]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.49.43:600][744]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.49.43:600][744]LogLoad: Took 0.064426 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.49.46:792][935]PIE: Warning: The widget 'PauseScreen_C' was already added to the screen.
+[2019.05.29-00.49.46:792][935]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.49.48:328][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.49.48:403][ 31]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.49.48:403][ 31]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.49.48:404][ 31]LogNet: Browse: /Game/Maps/MainMenuMap
+[2019.05.29-00.49.48:404][ 31]LogLoad: LoadMap: /Game/Maps/MainMenuMap
+[2019.05.29-00.49.48:450][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.05.29-00.49.48:450][ 31]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-00.49.48:451][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000768s)
+[2019.05.29-00.49.48:452][ 31]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-00.49.48:452][ 31]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2019.05.29-00.49.48:452][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001347s)
+[2019.05.29-00.49.48:452][ 31]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.49.48:453][ 31]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-19.49.48
+[2019.05.29-00.49.48:453][ 31]LogWorld: Bringing up level for play took: 0.000348
+[2019.05.29-00.49.48:453][ 31]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.29-00.49.48:454][ 31]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.49.48:454][ 31]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.49.48:454][ 31]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.49.48:455][ 31]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-00.49.48:455][ 31]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.49.48:455][ 31]LogLoad: Took 0.051460 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenuMap)
+[2019.05.29-00.49.49:319][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-00.49.49:406][ 88]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.49.49:406][ 88]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-00.49.49:406][ 88]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.49.49:407][ 88]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-00.49.49:449][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.05.29-00.49.49:462][ 88]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-00.49.49:462][ 88]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-00.49.49:469][ 88]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-19.49.49
+[2019.05.29-00.49.49:470][ 88]LogWorld: Bringing up level for play took: 0.006504
+[2019.05.29-00.49.49:470][ 88]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.49.49:470][ 88]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-00.49.49:470][ 88]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.49.49:471][ 88]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-00.49.49:471][ 88]LogLoad: Took 0.064808 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-00.49.52:762][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.49.52:762][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.49.52:798][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-00.49.52:798][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-00.49.52:845][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-00.49.52:850][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.05.29-00.49.52:861][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-00.49.52:891][286]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.05.29-00.49.54:377][375]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.49.54:382][375]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-00.49.56:869][524]LogRenderer: Reallocating scene render targets to support 2424x1368 Format 10 NumSamples 1 (Frame:37750).
+[2019.05.29-01.20.40:869][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/widgets/LevelSelectWidget" FILE="D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/LevelSelectWidget.uasset" SILENT=true
+[2019.05.29-01.20.40:899][785]LogSavePackage: Moving 'D:/Game Dev/MinigamePile/MinigamePile/Saved/LevelSelectWidgetEDDE0B0042EB6D3E902B1EA5B7B52F7D.tmp' to 'D:/Game Dev/MinigamePile/MinigamePile/Content/widgets/LevelSelectWidget.uasset'
+[2019.05.29-01.20.42:676][891]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.29-01.20.42:699][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-01.20.42:699][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-01.20.42:699][891]PIE: New page: PIE session: MainMenuMap (May 28, 2019, 3:20:42 PM)
+[2019.05.29-01.20.42:699][891]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-01.20.42:700][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000888s)
+[2019.05.29-01.20.42:701][891]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-01.20.42:701][891]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2019.05.29-01.20.42:701][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001568s)
+[2019.05.29-01.20.42:745][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.05.29-01.20.42:770][891]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.29-01.20.42:910][891]LogInit: FAudioDevice initialized.
+[2019.05.29-01.20.42:939][891]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-01.20.42:940][891]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-20.20.42
+[2019.05.29-01.20.42:940][891]LogWorld: Bringing up level for play took: 0.000425
+[2019.05.29-01.20.42:952][891]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.42:953][891]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.42:953][891]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.42:954][891]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-01.20.42:954][891]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.42:954][891]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenuMap 1.131
+[2019.05.29-01.20.42:955][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap' with GeneratedClass '/Game/Maps/MainMenuMap.MainMenuMap_C' with ClassGeneratedBy '/Game/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap'
+[2019.05.29-01.20.43:051][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-01.20.43:120][901]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.43:120][901]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.43:120][901]LogNet: Browse: /Game/Maps/FlyingExampleMap
+[2019.05.29-01.20.43:120][901]LogLoad: LoadMap: /Game/Maps/FlyingExampleMap
+[2019.05.29-01.20.43:161][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.05.29-01.20.43:216][901]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2019.05.29-01.20.43:217][901]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-01.20.43:266][901]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 60) at 2019.05.28-20.20.43
+[2019.05.29-01.20.43:266][901]LogWorld: Bringing up level for play took: 0.048868
+[2019.05.29-01.20.43:267][901]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.43:267][901]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.43:267][901]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.43:267][901]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.43:267][901]LogLoad: Took 0.146505 seconds to LoadMap(/Game/Maps/FlyingExampleMap)
+[2019.05.29-01.20.48:730][227]PIE: Warning: The widget 'PauseScreen_C' was already added to the screen.
+[2019.05.29-01.20.48:730][227]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-01.20.49:697][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-01.20.49:789][290]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.49:789][290]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.49:790][290]LogNet: Browse: /Game/Maps/MainMenuMap
+[2019.05.29-01.20.49:790][290]LogLoad: LoadMap: /Game/Maps/MainMenuMap
+[2019.05.29-01.20.49:839][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.05.29-01.20.49:839][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-01.20.49:840][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000827s)
+[2019.05.29-01.20.49:840][290]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-01.20.49:840][290]LogPlayLevel: PIE: World Init took: (0.000449s)
+[2019.05.29-01.20.49:840][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001410s)
+[2019.05.29-01.20.49:840][290]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-01.20.49:841][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-20.20.49
+[2019.05.29-01.20.49:842][290]LogWorld: Bringing up level for play took: 0.000325
+[2019.05.29-01.20.49:842][290]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.29-01.20.49:842][290]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.49:842][290]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.49:842][290]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.49:843][290]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-01.20.49:844][290]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.49:844][290]LogLoad: Took 0.053797 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenuMap)
+[2019.05.29-01.20.50:825][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-01.20.50:912][352]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.50:912][352]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.50:912][352]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-01.20.50:912][352]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-01.20.50:955][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.05.29-01.20.50:970][352]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-01.20.50:971][352]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-01.20.50:977][352]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-20.20.50
+[2019.05.29-01.20.50:977][352]LogWorld: Bringing up level for play took: 0.005381
+[2019.05.29-01.20.50:977][352]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.50:978][352]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.50:978][352]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.50:978][352]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.50:978][352]LogLoad: Took 0.065176 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-01.20.53:599][509]PIE: Warning: The widget 'PauseScreen_C' was already added to the screen.
+[2019.05.29-01.20.53:599][509]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-01.20.55:119][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-01.20.55:211][605]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.55:211][605]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.55:211][605]LogNet: Browse: /Game/Maps/MainMenuMap
+[2019.05.29-01.20.55:211][605]LogLoad: LoadMap: /Game/Maps/MainMenuMap
+[2019.05.29-01.20.55:260][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.05.29-01.20.55:260][605]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenuMap
+[2019.05.29-01.20.55:261][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000897s)
+[2019.05.29-01.20.55:262][605]LogAIModule: Creating AISystem for world MainMenuMap
+[2019.05.29-01.20.55:262][605]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2019.05.29-01.20.55:262][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenuMap.MainMenuMap to /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001672s)
+[2019.05.29-01.20.55:262][605]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-01.20.55:263][605]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2019.05.28-20.20.55
+[2019.05.29-01.20.55:263][605]LogWorld: Bringing up level for play took: 0.000579
+[2019.05.29-01.20.55:264][605]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.29-01.20.55:264][605]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.55:264][605]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.55:264][605]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.55:266][605]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.05.29-01.20.55:267][605]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.55:267][605]LogLoad: Took 0.055378 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenuMap)
+[2019.05.29-01.20.56:100][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-01.20.56:204][661]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.56:204][661]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.56:204][661]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-01.20.56:204][661]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-01.20.56:246][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.05.29-01.20.56:261][661]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-01.20.56:261][661]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-01.20.56:272][661]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-20.20.56
+[2019.05.29-01.20.56:272][661]LogWorld: Bringing up level for play took: 0.009939
+[2019.05.29-01.20.56:273][661]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.56:273][661]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.56:273][661]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.56:273][661]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.56:273][661]LogLoad: Took 0.068315 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-01.20.59:643][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-01.20.59:702][866]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.59:702][866]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.20.59:702][866]LogNet: Browse: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-01.20.59:702][866]LogLoad: LoadMap: /Game/Maps/ThirdPersonExampleMap
+[2019.05.29-01.20.59:746][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.05.29-01.20.59:761][866]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.29-01.20.59:761][866]LogLoad: Game class is 'MinigamePileGameMode_C'
+[2019.05.29-01.20.59:775][866]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.05.28-20.20.59
+[2019.05.29-01.20.59:775][866]LogWorld: Bringing up level for play took: 0.013509
+[2019.05.29-01.20.59:776][866]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.59:776][866]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.29-01.20.59:776][866]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.59:776][866]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.29-01.20.59:776][866]LogLoad: Took 0.073677 seconds to LoadMap(/Game/Maps/ThirdPersonExampleMap)
+[2019.05.29-01.21.03:685][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-01.21.03:777][105]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.21.03:777][105]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.05.29-01.21.03:777][105]LogNet: Browse: /Game/Maps/TwinStickExampleMap
+[2019.05.29-01.21.03:777][105]LogLoad: LoadMap: /Game/Maps/TwinStickExampleMap
+[2019.05.29-01.21.03:822][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.05.29-01.21.03:844][105]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2019.05.29-01.21.03:844][105]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.05.29-01.21.03:847][105]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2019.05.28-20.21.03
+[2019.05.29-01.21.03:847][105]LogWorld: Bringing up level for play took: 0.002204
+[2019.05.29-01.21.03:847][105]LogLoad: Took 0.069767 seconds to LoadMap(/Game/Maps/TwinStickExampleMap)
+[2019.05.29-01.21.08:097][121]LogWindows: Error: === Critical error: ===
+[2019.05.29-01.21.08:097][121]LogWindows: Error: 
+[2019.05.29-01.21.08:097][121]LogWindows: Error: Fatal error!
+[2019.05.29-01.21.08:097][121]LogWindows: Error: 
+[2019.05.29-01.21.08:097][121]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0xbad80e00
+[2019.05.29-01.21.08:097][121]LogWindows: Error: 
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ffa8e28eb5c UE4Editor-SaveExtension.dll!FSaveGameAction::OnSaveFinished() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\saveextension\source\saveextension\private\latentactions\savegameaction.cpp:27]
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ffa8e2883ce UE4Editor-SaveExtension.dll!TBaseRawMethodDelegateInstance<0,FSaveGameAction,void __cdecl(USlotInfo *)>::ExecuteIfSafe() [d:\rocketsync\4.22.0-5660361+++ue4+release-4.22\working\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:518]
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ffa8e28db43 UE4Editor-SaveExtension.dll!USlotDataTask_Saver::OnFinish() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\saveextension\source\saveextension\private\slotdatatask_saver.cpp:366]
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ffa8e2888f4 UE4Editor-SaveExtension.dll!USlotDataTask::Finish() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\saveextension\source\saveextension\private\slotdatatask.cpp:101]
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ffa8e2a5e73 UE4Editor-SaveExtension.dll!USlotDataTask_Saver::Tick() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\saveextension\source\saveextension\public\slotdatatask_saver.h:160]
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ffa8e29b952 UE4Editor-SaveExtension.dll!USaveManager::Tick() [d:\build\++portal+dev-marketplace+full\sync\localbuilds\plugintemp\hostproject\plugins\saveextension\source\saveextension\private\savemanager.cpp:324]
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ffaa8deb70b UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ffaa713048f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ffaa794cce6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ff60b976bb1 UE4Editor.exe!UnknownFunction []
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ff60b98554c UE4Editor.exe!UnknownFunction []
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ff60b9855ca UE4Editor.exe!UnknownFunction []
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ff60b99316c UE4Editor.exe!UnknownFunction []
+[2019.05.29-01.21.08:097][121]LogWindows: Error: [Callstack] 0x00007ff60b995b8e UE4Editor.exe!UnknownFunction []
+[2019.05.29-01.21.08:098][121]LogWindows: Error: [Callstack] 0x00007ffb28bc7974 KERNEL32.DLL!UnknownFunction []
+[2019.05.29-01.21.08:098][121]LogWindows: Error: [Callstack] 0x00007ffb2a7ca271 ntdll.dll!UnknownFunction []
+[2019.05.29-01.21.08:098][121]LogWindows: Error: 
+[2019.05.29-01.21.08:137][121]LogExit: Executing StaticShutdownAfterError
+[2019.05.29-01.21.08:143][121]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.05.29-01.21.08:182][121]Log file closed, 05/28/19 20:21:08
