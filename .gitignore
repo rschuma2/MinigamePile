@@ -163,3 +163,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # End of https://www.gitignore.io/api/unrealengine
+
+MinigamePile/Intermediate
+MinigamePile/Saved
+MinigamePile/Build
