@@ -1,4 +1,3 @@
-/*
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -80,7 +79,6 @@ DerivedDataCache/*
 # packaged game and zipped version
 WindowsNoEditor/*
 MinigamePile.zip
-*/
 
 
 
@@ -165,3 +163,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # End of https://www.gitignore.io/api/unrealengine
+
+MinigamePile/Intermediate
+MinigamePile/Saved
+MinigamePile/Build
