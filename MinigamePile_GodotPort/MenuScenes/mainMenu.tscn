@@ -1,0 +1,93 @@
+[gd_scene load_steps=12 format=2]
+
+[ext_resource path="res://Fonts/Montserrat/Montserrat-ExtraLight.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://MenuScenes/MenuButton_Solo.gd" type="Script" id=2]
+[ext_resource path="res://Fonts/Montserrat/Montserrat-Black.ttf" type="DynamicFontData" id=3]
+[ext_resource path="res://Fonts/Montserrat/Montserrat-ExtraBold.ttf" type="DynamicFontData" id=4]
+[ext_resource path="res://Fonts/Roboto/Roboto-Black.ttf" type="DynamicFontData" id=5]
+[ext_resource path="res://GameArtWork/MainMenu/Colourwheel.png" type="Texture" id=6]
+[ext_resource path="res://Sprite.gd" type="Script" id=7]
+
+[sub_resource type="DynamicFont" id=1]
+size = 72
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 100
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=3]
+size = 90
+font_data = ExtResource( 4 )
+
+[sub_resource type="DynamicFont" id=4]
+font_data = ExtResource( 5 )
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -1.50735
+margin_bottom = -1.50732
+
+[node name="Menu Buttons" type="VBoxContainer" parent="."]
+anchor_bottom = 1.0
+margin_top = 136.0
+margin_right = 338.0
+margin_bottom = -55.0
+
+[node name="MenuButton_Solo" type="Button" parent="Menu Buttons"]
+margin_right = 338.0
+margin_bottom = 95.0
+custom_fonts/font = SubResource( 1 )
+text = "Solo"
+align = 0
+script = ExtResource( 2 )
+
+[node name="MenuButton_Party" type="Button" parent="Menu Buttons"]
+margin_top = 99.0
+margin_right = 338.0
+margin_bottom = 194.0
+custom_fonts/font = SubResource( 1 )
+text = "Party"
+align = 0
+
+[node name="MenuButton_Settings" type="Button" parent="Menu Buttons"]
+margin_top = 198.0
+margin_right = 338.0
+margin_bottom = 293.0
+custom_fonts/font = SubResource( 1 )
+text = "Settings"
+align = 0
+
+[node name="MenuButton_Help" type="Button" parent="Menu Buttons"]
+margin_top = 297.0
+margin_right = 338.0
+margin_bottom = 392.0
+custom_fonts/font = SubResource( 1 )
+text = "Help"
+align = 0
+
+[node name="MainTitle" type="RichTextLabel" parent="."]
+margin_right = 841.0
+margin_bottom = 119.0
+custom_fonts/mono_font = SubResource( 2 )
+custom_fonts/normal_font = SubResource( 3 )
+text = "MINIGAME PILE"
+scroll_active = false
+
+[node name="Version Num" type="RichTextLabel" parent="."]
+margin_left = 13.0
+margin_top = 564.0
+margin_right = 207.0
+margin_bottom = 596.0
+size_flags_stretch_ratio = 0.0
+custom_fonts/mono_font = SubResource( 4 )
+text = "Ver: 0.0.4
+Adventurous Aardvark"
+
+[node name="ColourWheel" type="Sprite" parent="."]
+position = Vector2( 1023.81, 602.21 )
+scale = Vector2( 1.26582, 1.26582 )
+texture = ExtResource( 6 )
+script = ExtResource( 7 )
+rotationSpeed = 1

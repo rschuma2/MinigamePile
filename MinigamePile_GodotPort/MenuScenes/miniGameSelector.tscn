@@ -1,0 +1,132 @@
+[gd_scene load_steps=16 format=2]
+
+[ext_resource path="res://Fonts/Montserrat/Montserrat-ExtraLight.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://MenuScenes/gameSelectorButton_Simone Says.gd" type="Script" id=2]
+[ext_resource path="res://MenuScenes/gameSelectorButton_Music Box.gd" type="Script" id=3]
+[ext_resource path="res://MenuScenes/gameSelectorButton_Beat Beast.gd" type="Script" id=4]
+[ext_resource path="res://Fonts/Montserrat/Montserrat-Black.ttf" type="DynamicFontData" id=5]
+[ext_resource path="res://Fonts/Montserrat/Montserrat-Medium.ttf" type="DynamicFontData" id=6]
+[ext_resource path="res://Fonts/Roboto/Roboto-Light.ttf" type="DynamicFontData" id=7]
+[ext_resource path="res://Fonts/Montserrat/Montserrat-Light.ttf" type="DynamicFontData" id=8]
+[ext_resource path="res://MenuScenes/PlayButton.gd" type="Script" id=9]
+[ext_resource path="res://MenuScenes/Back.gd" type="Script" id=10]
+
+[sub_resource type="DynamicFont" id=1]
+size = 50
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 100
+font_data = ExtResource( 5 )
+
+[sub_resource type="DynamicFont" id=3]
+size = 40
+font_data = ExtResource( 6 )
+
+[sub_resource type="DynamicFont" id=4]
+size = 19
+font_data = ExtResource( 7 )
+
+[sub_resource type="DynamicFont" id=5]
+size = 38
+font_data = ExtResource( 8 )
+
+[node name="miniGameSelector" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+rect_pivot_offset = Vector2( 290, 150 )
+
+[node name="ScrollContainer" type="ScrollContainer" parent="."]
+anchor_bottom = 1.0
+margin_top = 129.0
+margin_right = 246.0
+margin_bottom = 1.0
+scroll_horizontal_enabled = false
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ScrollContainer"]
+margin_right = 325.0
+margin_bottom = 212.0
+
+[node name="gameSelectorButton_Simone Says" type="Button" parent="ScrollContainer/VBoxContainer"]
+margin_right = 325.0
+margin_bottom = 68.0
+custom_fonts/font = SubResource( 1 )
+text = "Simone Says"
+align = 0
+script = ExtResource( 2 )
+
+[node name="gameSelectorButton_Music Box" type="Button" parent="ScrollContainer/VBoxContainer"]
+margin_top = 72.0
+margin_right = 325.0
+margin_bottom = 140.0
+custom_fonts/font = SubResource( 1 )
+text = "Music Box"
+align = 0
+script = ExtResource( 3 )
+
+[node name="gameSelectorButton_Beat Beast" type="Button" parent="ScrollContainer/VBoxContainer"]
+margin_top = 144.0
+margin_right = 325.0
+margin_bottom = 212.0
+custom_fonts/font = SubResource( 1 )
+text = "Beat Beast"
+align = 0
+script = ExtResource( 4 )
+
+[node name="PageTitle" type="RichTextLabel" parent="."]
+margin_top = 0.648201
+margin_right = 648.0
+margin_bottom = 111.648
+custom_fonts/normal_font = SubResource( 2 )
+text = "MiniGames"
+scroll_active = false
+
+[node name="MinigameDescription" type="VBoxContainer" parent="."]
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+margin_left = -507.0
+margin_top = -187.0
+margin_right = -8.0
+margin_bottom = 230.0
+
+[node name="Title" type="Label" parent="MinigameDescription"]
+margin_right = 499.0
+margin_bottom = 50.0
+custom_fonts/font = SubResource( 3 )
+align = 2
+
+[node name="Description" type="Label" parent="MinigameDescription"]
+margin_top = 54.0
+margin_right = 499.0
+margin_bottom = 77.0
+custom_fonts/font = SubResource( 4 )
+align = 2
+autowrap = true
+
+[node name="PlayButton" type="Button" parent="."]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -196.0
+margin_top = -60.0
+margin_right = -6.0
+margin_bottom = -7.0
+custom_fonts/font = SubResource( 5 )
+text = "Play"
+script = ExtResource( 9 )
+
+[node name="Back" type="Button" parent="."]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -1013.58
+margin_top = -62.7207
+margin_right = -823.585
+margin_bottom = -9.7207
+custom_fonts/font = SubResource( 5 )
+text = "Back"
+script = ExtResource( 10 )
