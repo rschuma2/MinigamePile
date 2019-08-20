@@ -1,12 +1,13 @@
-[gd_scene load_steps=12 format=2]
+[gd_scene load_steps=13 format=2]
 
 [ext_resource path="res://Fonts/Montserrat/Montserrat-ExtraLight.ttf" type="DynamicFontData" id=1]
 [ext_resource path="res://MenuScenes/MenuButton_Solo.gd" type="Script" id=2]
-[ext_resource path="res://Fonts/Montserrat/Montserrat-Black.ttf" type="DynamicFontData" id=3]
-[ext_resource path="res://Fonts/Montserrat/Montserrat-ExtraBold.ttf" type="DynamicFontData" id=4]
-[ext_resource path="res://Fonts/Roboto/Roboto-Black.ttf" type="DynamicFontData" id=5]
-[ext_resource path="res://GameArtWork/MainMenu/Colourwheel.png" type="Texture" id=6]
-[ext_resource path="res://Sprite.gd" type="Script" id=7]
+[ext_resource path="res://MenuScenes/MenuButton_Help.gd" type="Script" id=3]
+[ext_resource path="res://Fonts/Montserrat/Montserrat-Black.ttf" type="DynamicFontData" id=4]
+[ext_resource path="res://Fonts/Montserrat/Montserrat-ExtraBold.ttf" type="DynamicFontData" id=5]
+[ext_resource path="res://Fonts/Roboto/Roboto-Black.ttf" type="DynamicFontData" id=6]
+[ext_resource path="res://GameArtWork/MainMenu/Colourwheel.png" type="Texture" id=7]
+[ext_resource path="res://Sprite.gd" type="Script" id=8]
 
 [sub_resource type="DynamicFont" id=1]
 size = 72
@@ -14,14 +15,14 @@ font_data = ExtResource( 1 )
 
 [sub_resource type="DynamicFont" id=2]
 size = 100
-font_data = ExtResource( 3 )
+font_data = ExtResource( 4 )
 
 [sub_resource type="DynamicFont" id=3]
 size = 90
-font_data = ExtResource( 4 )
+font_data = ExtResource( 5 )
 
 [sub_resource type="DynamicFont" id=4]
-font_data = ExtResource( 5 )
+font_data = ExtResource( 6 )
 
 [node name="Control" type="Control"]
 anchor_right = 1.0
@@ -66,6 +67,7 @@ margin_bottom = 392.0
 custom_fonts/font = SubResource( 1 )
 text = "Help"
 align = 0
+script = ExtResource( 3 )
 
 [node name="MainTitle" type="RichTextLabel" parent="."]
 margin_right = 841.0
@@ -82,12 +84,12 @@ margin_right = 207.0
 margin_bottom = 596.0
 size_flags_stretch_ratio = 0.0
 custom_fonts/mono_font = SubResource( 4 )
-text = "Ver: 0.0.4
+text = "Ver: 0.0.6
 Adventurous Aardvark"
 
 [node name="ColourWheel" type="Sprite" parent="."]
 position = Vector2( 1023.81, 602.21 )
 scale = Vector2( 1.26582, 1.26582 )
-texture = ExtResource( 6 )
-script = ExtResource( 7 )
+texture = ExtResource( 7 )
+script = ExtResource( 8 )
 rotationSpeed = 1

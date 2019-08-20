@@ -26,7 +26,7 @@ font_data = ExtResource( 14 )
 
 [node name="Node2D" type="Node2D"]
 
-[node name="TextureButton" type="TextureButton" parent="."]
+[node name="red" type="TextureButton" parent="."]
 margin_left = 505.0
 margin_top = 34.0
 margin_right = 756.0
@@ -36,7 +36,7 @@ texture_pressed = ExtResource( 2 )
 texture_hover = ExtResource( 3 )
 texture_disabled = ExtResource( 2 )
 
-[node name="TextureButton2" type="TextureButton" parent="."]
+[node name="green" type="TextureButton" parent="."]
 margin_left = 505.0
 margin_top = 285.0
 margin_right = 756.0
@@ -46,7 +46,7 @@ texture_pressed = ExtResource( 5 )
 texture_hover = ExtResource( 6 )
 texture_disabled = ExtResource( 5 )
 
-[node name="TextureButton3" type="TextureButton" parent="."]
+[node name="yellow" type="TextureButton" parent="."]
 margin_left = 756.0
 margin_top = 34.0
 margin_right = 1007.0
@@ -56,7 +56,7 @@ texture_pressed = ExtResource( 8 )
 texture_hover = ExtResource( 9 )
 texture_disabled = ExtResource( 8 )
 
-[node name="TextureButton4" type="TextureButton" parent="."]
+[node name="blue" type="TextureButton" parent="."]
 margin_left = 756.0
 margin_top = 285.0
 margin_right = 1007.0
@@ -66,7 +66,7 @@ texture_pressed = ExtResource( 11 )
 texture_hover = ExtResource( 12 )
 texture_disabled = ExtResource( 11 )
 
-[node name="RichTextLabel" type="RichTextLabel" parent="."]
+[node name="title" type="RichTextLabel" parent="."]
 margin_left = 4.0
 margin_top = 1.0
 margin_right = 435.0
@@ -74,10 +74,10 @@ margin_bottom = 80.0
 custom_fonts/normal_font = SubResource( 1 )
 text = "Simone Says"
 
-[node name="Button" type="Button" parent="."]
-margin_left = 10.42
+[node name="back" type="Button" parent="."]
+margin_left = 8.83333
 margin_top = 537.279
-margin_right = 200.415
+margin_right = 198.828
 margin_bottom = 590.279
 custom_fonts/font = SubResource( 2 )
 text = "Back"
