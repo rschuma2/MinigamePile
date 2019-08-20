@@ -2,6 +2,6 @@ Contains source code for Godot port.
 Currently only features a main menu, Game Selection Menu and an unuseable Simone Says.
 
 To run the game you must build it using Godot by 
-1) Opening the project file in Godot. It should be called ```"project.godot"```.
-2) Then go to the ```"Project"``` drop down menu and click on "```Export```"
+1) Opening the project file in Godot. It should be called `project.godot`.
+2) Then go to the `Project` drop down menu and click on `Export`
 3) Change the settings to get your prefered build
