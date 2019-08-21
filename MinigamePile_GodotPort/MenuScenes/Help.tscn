@@ -1,0 +1,33 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Fonts/Montserrat/Montserrat-Black.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://Fonts/Montserrat/Montserrat-Light.ttf" type="DynamicFontData" id=2]
+[ext_resource path="res://MenuScenes/Button.gd" type="Script" id=3]
+
+[sub_resource type="DynamicFont" id=1]
+size = 100
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 38
+font_data = ExtResource( 2 )
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+margin_right = 266.0
+margin_bottom = 127.0
+rect_pivot_offset = Vector2( 178.15, 53.0864 )
+custom_fonts/normal_font = SubResource( 1 )
+text = "Help"
+
+[node name="Button" type="Button" parent="."]
+margin_left = 8.833
+margin_top = 537.279
+margin_right = 198.828
+margin_bottom = 590.279
+custom_fonts/font = SubResource( 2 )
+text = "Back"
+script = ExtResource( 3 )
