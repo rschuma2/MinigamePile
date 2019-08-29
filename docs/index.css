@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    /*Removes border around page*/
+}
+
+h1 {
+    font-family: 'montessrat', Arial, sans-sreif;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: 'roboto', Arial, sans-serif;
+    font-weight: 100;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    /*Main nav bar*/
+}
+
+nav div {
+    display: flex;
+}
+
+nav div h2 {
+    margin-top: 14px;
+    /*Title and image*/
+}
+
+nav ul li {
+    display: inline;
+    padding: 0px 10px;
+    font-family: 'roboto', Arial, sans-serif;
+    font-weight: 100;
+    /*Nav items*/
+}
+
+.hero {
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 90px;
+}
+
+.hero h2 {
+    margin-top: -35px;
+}
